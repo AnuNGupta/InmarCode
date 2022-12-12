@@ -1,21 +1,21 @@
-● location_project
+● Problem_2
 |
-+---● employee_register (app folder)
++---● location_register (app folder)
 |   |
 |   +--● migrations (includes files related to migrations)
 |   |  
 |   +--● templates
-|   |  |--● employee_register
+|   |  |--● location_register
 |   |  |  |--base.html
-|   |  |  |--employee_form.html
-|   |  |  |--employee_list.html
+|   |  |  |--location_form.html
+|   |  |  |--location_list.html
 |   | 
 |   |-- models.py
 |   |-- forms.py
 |   |-- urls.py
 |   |-- views.py
 |
-+---● employee_project (project folder)
++---● location_project (project folder)
 |   |
 |   |--settings.py 
 |   |--urls.py
